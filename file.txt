@@ -1,3 +1,4 @@
 checkpoint1
 checkpoint2
 fix checkpoint2
+checkpoint3
